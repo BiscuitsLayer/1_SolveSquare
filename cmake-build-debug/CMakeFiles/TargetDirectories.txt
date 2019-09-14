@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/1_SolveSquare/cmake-build-debug/CMakeFiles/1_SolveSquare.dir
+C:/Users/Admin/CLionProjects/1_SolveSquare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/1_SolveSquare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
