@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/1_SolveSquare/main.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+assert.h
+-
+
